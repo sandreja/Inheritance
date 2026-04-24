@@ -1,5 +1,3 @@
-Nasleđivanje / Inheritance
-
 EN
 
 A simple Java exercise demonstrating the concept of inheritance. An Animal base class is extended by Dog and Pig subclasses, each overriding the animalSound() method to produce their own output.
